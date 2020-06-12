@@ -6,4 +6,5 @@ Java Graphical User interface Projects Contains
 # Shopping
 # Student-Details
 
-# Note : Run this Java Applet with IDE or using Some HTML File 
+ 
+Note : Run this Java Applet with IDE or using Some HTML File 
